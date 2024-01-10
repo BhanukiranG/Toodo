@@ -60,4 +60,4 @@ The project follows a modular structure with key components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/toodo-app.git
+   git clone https://github.com/BhanukiranG/Toodo.git
