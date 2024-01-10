@@ -1,4 +1,4 @@
-# TooDo App
+# TooDo
 
 # Overview
 
