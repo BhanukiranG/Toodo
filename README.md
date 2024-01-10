@@ -22,31 +22,7 @@ Introducing TooDo, an effective and user-friendly Android application that makes
 
 ## Project Structure
 
-com
-|-- example
-    |-- TooDo
-        |-- activities
-        |   |-- AllTagsActivity.java
-        |   |-- AppSettingsActivity.java
-        |   |-- CompletedTodosActivity.java
-        |   |-- MainActivity.java
-        |
-        |-- adapters
-        |   |-- CompletedTodoAdapter.java
-        |   |-- PendingTodoAdapter.java
-        |   |-- TagAdapter.java
-        |
-        |-- helpers
-        |   |-- DatabaseHelper.java
-        |   |-- SettingsHelper.java
-        |   |-- TagDBHelper.java
-        |   |-- TodoDBHelper.java
-        |
-        |-- models
-            |-- CompletedTodoModel.java
-            |-- PendingTodoModel.java
-            |-- TagsModel.java
-
+![Screenshot 2024-01-10 121332](https://github.com/BhanukiranG/Toodo/assets/96532063/587364d3-a6d4-4c9e-b3cc-599293902b86)
 
 The project follows a modular structure with key components:
 - **MainActivity.java:** Core functionality, displaying and managing tasks.
