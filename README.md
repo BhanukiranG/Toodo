@@ -80,5 +80,8 @@ The project follows a modular structure with key components:
 2. Choose the target device (emulator or connected device) where you want to run the application.
 
 ## Screenshots
-1. ![1](https://github.com/BhanukiranG/Toodo/assets/96532063/0db8820b-56d4-4e0a-a9c2-29dfaef3a6ab)
+![one](https://github.com/BhanukiranG/bhanukiranportfolio/assets/96532063/514053c6-6782-4ed0-9fb5-778ebf9fb7b5)
+![two](https://github.com/BhanukiranG/bhanukiranportfolio/assets/96532063/0dc03cd0-7f30-4368-a012-b8413b0d7685)
+![threee](https://github.com/BhanukiranG/bhanukiranportfolio/assets/96532063/5f6b73ab-ccca-4746-9b5c-ddff073feb08)
+
 
