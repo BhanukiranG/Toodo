@@ -1,8 +1,8 @@
-# TooDo App
+## TooDo App
 
 ## Overview
 
-Introducing TooDo, an effective and user-friendly Android software that makes task management easier. Users may simply arrange their activities, set due dates, assign priority levels, categorize tasks, and track their progress thanks to a clear and simple interface. The application makes use of SQLite-powered local storage to guarantee that tasks are always accessible and safely kept. Users can record and monitor important information by giving each task a label and a thorough description.
+Introducing TooDo, an effective and user-friendly Android application that makes task management easier. Users may simply arrange their activities, set due dates, assign priority levels, categorize tasks, and track their progress thanks to a clear and simple interface. The application makes use of SQLite-powered local storage to guarantee that tasks are always accessible and safely kept. Users can record and monitor important information by giving each task a label and a thorough description.
 
 ## Key Features
 
