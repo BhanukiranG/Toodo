@@ -2,24 +2,51 @@
 
 ## Overview
 
-Welcome to TooDo, a user-friendly and efficient Android application designed to simplify task management. With a clean and intuitive interface, users can organize their tasks, set due dates, assign priority levels, categorize tasks, and monitor their progress easily. The app leverages local storage powered by SQLite, ensuring that tasks are securely stored and accessible at all times. Each task includes a title and a detailed description, allowing users to capture and track essential information.
+Introducing TooDo, an effective and user-friendly Android software that makes task management easier. Users may simply arrange their activities, set due dates, assign priority levels, categorize tasks, and track their progress thanks to a clear and simple interface. The application makes use of SQLite-powered local storage to guarantee that tasks are always accessible and safely kept. Users can record and monitor important information by giving each task a label and a thorough description.
 
 ## Key Features
 
-- **Due Date:** Set deadlines for tasks to stay organized and time-conscious.
-- **Priority Levels:** Assign priority levels (Low, Medium, High) for effective task prioritization.
-- **Category:** Categorize tasks based on different aspects of life or work.
-- **Task Status:** Mark tasks as New, In Progress, or Completed to monitor their progress.
-- **Title and Description:** Provide detailed information for each task.
+-**Due Date And Time:** Establish due dates for assignments to maintain organization and timeliness.
+-**Priority Levels:** To effectively prioritize tasks, assign the following priority levels: Low, Medium, and High.
+-**Category:** Sort duties according to various facets of life or work.
+-**Status of Task:** To keep track of tasks' progress, mark them as New, In Progress, or Completed.
+-**Title and Description:** Give each task a thorough explanation.
+
 
 ## Technical Specifications
 
 - **Platform:** Android
 - **Language:** Java
 - **Local Storage Solution:** SQLite
-- **User Interface:** Clean and responsive design.
+- **User Interface:** Clean and responsive design using XML.
 
 ## Project Structure
+
+com
+|-- example
+    |-- TooDo
+        |-- activities
+        |   |-- AllTagsActivity.java
+        |   |-- AppSettingsActivity.java
+        |   |-- CompletedTodosActivity.java
+        |   |-- MainActivity.java
+        |
+        |-- adapters
+        |   |-- CompletedTodoAdapter.java
+        |   |-- PendingTodoAdapter.java
+        |   |-- TagAdapter.java
+        |
+        |-- helpers
+        |   |-- DatabaseHelper.java
+        |   |-- SettingsHelper.java
+        |   |-- TagDBHelper.java
+        |   |-- TodoDBHelper.java
+        |
+        |-- models
+            |-- CompletedTodoModel.java
+            |-- PendingTodoModel.java
+            |-- TagsModel.java
+
 
 The project follows a modular structure with key components:
 - **MainActivity.java:** Core functionality, displaying and managing tasks.
