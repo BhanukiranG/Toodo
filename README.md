@@ -82,6 +82,5 @@ The project follows a modular structure with key components:
 ## Screenshots
 ![one](https://github.com/BhanukiranG/bhanukiranportfolio/assets/96532063/514053c6-6782-4ed0-9fb5-778ebf9fb7b5)
 ![two](https://github.com/BhanukiranG/bhanukiranportfolio/assets/96532063/0dc03cd0-7f30-4368-a012-b8413b0d7685)
-![threee](https://github.com/BhanukiranG/bhanukiranportfolio/assets/96532063/5f6b73ab-ccca-4746-9b5c-ddff073feb08)
-
-
+![three](https://github.com/BhanukiranG/bhanukiranportfolio/assets/96532063/b904ec2d-3cfc-4d25-9414-3217c9a98a8e)
+![four](https://github.com/BhanukiranG/bhanukiranportfolio/assets/96532063/4d3118d4-5a00-45d8-96a6-26f3c720ce79)
